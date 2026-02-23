@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: POOJITH PRASATH M G </h3>
+<h3>Name: POOJITH PRASATH M </h3>
 <h3>Register Number: 212224060188</h3>
 
 
